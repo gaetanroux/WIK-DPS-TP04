@@ -176,7 +176,7 @@ spec:
 
 Il faut se rendre, sur Windows, dans `C:\Windows\System32\drivers\etc\host` :
 
-`127.0.0.1 trotrorigolo.fr`
+`127.0.0.1 toto.xyz`
 
 - Lancer les commandes ci dessous :
   `kubectl apply -f service.yaml` --> _créer la ressource à partir de service.yaml_
